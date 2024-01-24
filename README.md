@@ -22,5 +22,5 @@
 - сумму продаж
 
 **Формат решения:**
-1.	код на python для построения отчета (ipynb файл)
-2.	сам отчет (csv файл)
+1.	код на python для построения отчета ([Noodles.ipynb](https://github.com/artvik261/Noodles/blob/main/Noodles.ipynb))
+2.	сам отчет ([Noodles_report.csv](https://github.com/artvik261/Noodles/blob/main/Noodles_report.csv))
